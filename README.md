@@ -2,15 +2,6 @@
 
 This lab explores the origins of Connectionism and Artificial Intelligence through the implementation and analysis of four seminal models. You will move from hard-coded logic with McCulloch-Pitts neurons to the birth of supervised gradient descent with ADALINE.
 
-## 📂 Table of Contents
-
-1. [Part 1: McCulloch-Pitts Neuron](https://www.google.com/search?q=%23part-1-mcculloch-pitts-neuron)
-2. [Part 2: Hebbian Learning & Oja's Rule](https://www.google.com/search?q=%23part-2-hebbian-learning--ojas-rule)
-3. [Part 3: The Rosenblatt Perceptron](https://www.google.com/search?q=%23part-3-the-rosenblatt-perceptron)
-4. [Part 4: ADALINE & Gradient Descent](https://www.google.com/search?q=%23part-4-adaline--gradient-descent)
-
----
-
 ## 🧠 Part 1: McCulloch-Pitts Neuron (1943)
 
 The earliest computational model of a biological neuron. This section focuses on propositional logic and the "all-or-nothing" thresholding mechanism.
